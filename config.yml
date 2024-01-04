@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
+baseURL: "https://szewczyk-jakub.github.io/" 
+title: Jakub Szewczyk
 paginate: 20
 theme: PaperMod
 
@@ -11,23 +11,25 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: Projects
+          url: projects/
           weight: 1
-        - name: Courses
-          url: courses/
+        - name: Polonez Bis
+          url: polonezbis/
           weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
+#        - name: Courses
+#          url: courses/
+#          weight: 2
+#        - name: Data
+ #         url: data/
+#          weight: 3 
+#        - name: Newsletter
+#          url: https://pmichaillat.substack.com
+#          weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
-    author: Name
+    description: "I am a post-doc at the Institute of Psychology at the Jagiellonian University in Kraków, Poland. I study mechanisms and representations underlying language comprehension. I use EEG, fMRI, deep neural networks and behavioral measures."
+    author: "Jakub Szewczyk"
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -50,44 +52,50 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
-          imageUrl: "picture.jpeg"
+          title: Jakub Szewczyk
+          subtitle: "I am a post-doc at the <a href=\"https://psychologia.uj.edu.pl/en_GB/\" target=\"_blank\" style=\"color:#8e7bd0\">Institute of Psychology</a> at the Jagiellonian University in Kraków, Poland. Currently, I am funded by the <a href=\"polonezbis/\" target=\"_blank\" style=\"color:#8e7bd0\">Polonez Bis</a> grant from the National Science Centre, Poland.  \n&nbsp;  \n
+          I study mechanisms and representations underlying language comprehension. I use EEG, fMRI, deep neural networks and behavioral measures.  \n&nbsp;  \n
+          Previously, I worked at the University of Illinois at Urbana-Champaign, Donders Institute for Brain, Cognition and Behaviour, and Max Planck Institute for Psycholinguistics.  \n&nbsp;  \n"
+          imageUrl: "MPI photo cropped.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Jakub Szewczyk
           buttons:
+            - name: Projects
+              url: projects/
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
+#            - name: Courses
+#              url: courses/
+#            - name: Data
+#              url: data/
+#            - name: Newsletter
+#              url: https://pmichaillat.substack.com
+#            - name: Tags
+#              url: tags/
+            - name: Polonez Bis
+              url: polonezbis/
             - name: Archive
               url: archive/
     socialIcons:
-        - name: CV
-          url: cv.pdf
+#        - name: CV
+#          url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:jakub.szewczyk@gmail.com
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
+#        - name: Office Hours
+#          url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://scholar.google.com/citations?user=C6Yltn8AAAAJ
+#        - name: YouTube
+#          url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://github.com/themeo
+#        - name: Substack
+#          url: https://pmichaillat.substack.com
         - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://twitter.com/jkbszwczk
 
     assets:
         disableHLJS: true
@@ -96,7 +104,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Jakub Szewczyk"
       icon: favicon.ico
       iconHeight: 18
 
@@ -106,7 +114,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: autumn
     tableOfContents:
         endLevel: 2
         ordered: false
