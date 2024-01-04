@@ -30,7 +30,7 @@ menu:
 params:
     description: "I am a post-doc at the Institute of Psychology at the Jagiellonian University in Kraków, Poland. I study mechanisms and representations underlying language comprehension. I use EEG, fMRI, deep neural networks and behavioral measures."
     author: "Jakub Szewczyk"
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-20S633BT11"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
