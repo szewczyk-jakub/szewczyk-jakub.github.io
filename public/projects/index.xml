@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Current and past projects on Jakub Szewczyk</title>
+    <link>https://szewczyk-jakub.github.io/projects/</link>
+    <description>Recent content in Current and past projects on Jakub Szewczyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://szewczyk-jakub.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In search of prediction error representations</title>
+      <link>https://szewczyk-jakub.github.io/projects/polonez_bis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/projects/polonez_bis/</guid>
+      <description>In search of prediction error - popular description</description>
+    </item>
+    
+    <item>
+      <title>Do adjectives update predictions about a noun?</title>
+      <link>https://szewczyk-jakub.github.io/projects/adj-n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/projects/adj-n/</guid>
+      <description>description?</description>
+    </item>
+    
+    <item>
+      <title>What is the neuro-cognitive mechanism underlying semantic access (and the N400)?</title>
+      <link>https://szewczyk-jakub.github.io/projects/lexical_access/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/projects/lexical_access/</guid>
+      <description>description?</description>
+    </item>
+    
+  </channel>
+</rss>

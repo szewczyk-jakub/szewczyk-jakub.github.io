@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>word reading on Jakub Szewczyk</title>
+    <link>https://szewczyk-jakub.github.io/tags/word-reading/</link>
+    <description>Recent content in word reading on Jakub Szewczyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://szewczyk-jakub.github.io/tags/word-reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Polonez Bis grant</title>
+      <link>https://szewczyk-jakub.github.io/polonezbis/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/polonezbis/</guid>
+      <description>In search of prediction error representations.</description>
+    </item>
+    
+  </channel>
+</rss>

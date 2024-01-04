@@ -1,74 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Prof. Name</title>
-    <link>https://pascalmichaillat.org/hugo-website/</link>
-    <description>Recent content on Prof. Name</description>
+    <title>Jakub Szewczyk</title>
+    <link>https://szewczyk-jakub.github.io/</link>
+    <description>Recent content on Jakub Szewczyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://szewczyk-jakub.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In search of prediction error representations</title>
+      <link>https://szewczyk-jakub.github.io/projects/polonez_bis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/projects/polonez_bis/</guid>
+      <description>In search of prediction error - popular description</description>
+    </item>
+    
+    <item>
+      <title>Do adjectives update predictions about a noun?</title>
+      <link>https://szewczyk-jakub.github.io/projects/adj-n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/projects/adj-n/</guid>
+      <description>description?</description>
+    </item>
+    
+    <item>
+      <title>What is the neuro-cognitive mechanism underlying semantic access (and the N400)?</title>
+      <link>https://szewczyk-jakub.github.io/projects/lexical_access/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/projects/lexical_access/</guid>
+      <description>description?</description>
+    </item>
+    
     <item>
       <title>Dataset Title</title>
-      <link>https://pascalmichaillat.org/hugo-website/data/data1/</link>
+      <link>https://szewczyk-jakub.github.io/data/data1/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/data/data1/</guid>
+      <guid>https://szewczyk-jakub.github.io/data/data1/</guid>
       <description>This dataset contains things.</description>
     </item>
     
     <item>
       <title>Course Title 1</title>
-      <link>https://pascalmichaillat.org/hugo-website/courses/course1/</link>
+      <link>https://szewczyk-jakub.github.io/courses/course1/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/courses/course1/</guid>
+      <guid>https://szewczyk-jakub.github.io/courses/course1/</guid>
       <description>This graduate course presents things.</description>
     </item>
     
     <item>
       <title>Course Title 2</title>
-      <link>https://pascalmichaillat.org/hugo-website/courses/course2/</link>
+      <link>https://szewczyk-jakub.github.io/courses/course2/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/courses/course2/</guid>
+      <guid>https://szewczyk-jakub.github.io/courses/course2/</guid>
       <description>This undergraduate course presents many new things.</description>
     </item>
     
     <item>
       <title>Paper Title 2</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper2/</link>
+      <link>https://szewczyk-jakub.github.io/papers/paper2/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper2/</guid>
+      <guid>https://szewczyk-jakub.github.io/papers/paper2/</guid>
       <description>This paper shows other things. Published in Journal Name, 2015.</description>
     </item>
     
     <item>
       <title>Paper Title 1</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper1/</link>
+      <link>https://szewczyk-jakub.github.io/papers/paper1/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper1/</guid>
+      <guid>https://szewczyk-jakub.github.io/papers/paper1/</guid>
       <description>This paper shows things. Published in Journal Name, 2012.</description>
     </item>
     
     
     <item>
       <title>Location</title>
-      <link>https://pascalmichaillat.org/hugo-website/location/</link>
+      <link>https://szewczyk-jakub.github.io/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/location/</guid>
+      <guid>https://szewczyk-jakub.github.io/location/</guid>
       <description>Mailing and office addresses at the University of Place.</description>
     </item>
     
     <item>
       <title>Office Hours</title>
-      <link>https://pascalmichaillat.org/hugo-website/officehours/</link>
+      <link>https://szewczyk-jakub.github.io/officehours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/officehours/</guid>
+      <guid>https://szewczyk-jakub.github.io/officehours/</guid>
       <description>Schedule and location for office hours.</description>
+    </item>
+    
+    <item>
+      <title>Popular description</title>
+      <link>https://szewczyk-jakub.github.io/polonezbis/popular2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/polonezbis/popular2/</guid>
+      <description>In search of prediction error - popular description</description>
     </item>
     
   </channel>

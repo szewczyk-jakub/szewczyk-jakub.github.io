@@ -1,81 +1,189 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Prof. Name</title>
-    <link>https://pascalmichaillat.org/hugo-website/tags/</link>
-    <description>Recent content in Tags on Prof. Name</description>
+    <title>Tags on Jakub Szewczyk</title>
+    <link>https://szewczyk-jakub.github.io/tags/</link>
+    <description>Recent content in Tags on Jakub Szewczyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://szewczyk-jakub.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>projects</title>
+      <link>https://szewczyk-jakub.github.io/tags/projects/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dampening</title>
+      <link>https://szewczyk-jakub.github.io/tags/dampening/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/tags/dampening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>decoding</title>
+      <link>https://szewczyk-jakub.github.io/tags/decoding/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/tags/decoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fMRI</title>
+      <link>https://szewczyk-jakub.github.io/tags/fmri/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/tags/fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polonez</title>
+      <link>https://szewczyk-jakub.github.io/tags/polonez/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/tags/polonez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polonez bis</title>
+      <link>https://szewczyk-jakub.github.io/tags/polonez-bis/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/tags/polonez-bis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prediction error</title>
+      <link>https://szewczyk-jakub.github.io/tags/prediction-error/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/tags/prediction-error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>predictions</title>
+      <link>https://szewczyk-jakub.github.io/tags/predictions/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/tags/predictions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>priming</title>
+      <link>https://szewczyk-jakub.github.io/tags/priming/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/tags/priming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sharpening</title>
+      <link>https://szewczyk-jakub.github.io/tags/sharpening/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/tags/sharpening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>word reading</title>
+      <link>https://szewczyk-jakub.github.io/tags/word-reading/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/tags/word-reading/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>keyword 10</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-10/</link>
+      <link>https://szewczyk-jakub.github.io/tags/keyword-10/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-10/</guid>
+      <guid>https://szewczyk-jakub.github.io/tags/keyword-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>keyword 5</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-5/</link>
+      <link>https://szewczyk-jakub.github.io/tags/keyword-5/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-5/</guid>
+      <guid>https://szewczyk-jakub.github.io/tags/keyword-5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>keyword 6</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-6/</link>
+      <link>https://szewczyk-jakub.github.io/tags/keyword-6/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-6/</guid>
+      <guid>https://szewczyk-jakub.github.io/tags/keyword-6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>keyword 7</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-7/</link>
+      <link>https://szewczyk-jakub.github.io/tags/keyword-7/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-7/</guid>
+      <guid>https://szewczyk-jakub.github.io/tags/keyword-7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>keyword 1</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-1/</link>
+      <link>https://szewczyk-jakub.github.io/tags/keyword-1/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-1/</guid>
+      <guid>https://szewczyk-jakub.github.io/tags/keyword-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>keyword 2</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-2/</link>
+      <link>https://szewczyk-jakub.github.io/tags/keyword-2/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-2/</guid>
+      <guid>https://szewczyk-jakub.github.io/tags/keyword-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>keyword 3</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-3/</link>
+      <link>https://szewczyk-jakub.github.io/tags/keyword-3/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-3/</guid>
+      <guid>https://szewczyk-jakub.github.io/tags/keyword-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>keyword 4</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-4/</link>
+      <link>https://szewczyk-jakub.github.io/tags/keyword-4/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-4/</guid>
+      <guid>https://szewczyk-jakub.github.io/tags/keyword-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>figure/ground segregation</title>
+      <link>https://szewczyk-jakub.github.io/tags/figure/ground-segregation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://szewczyk-jakub.github.io/tags/figure/ground-segregation/</guid>
       <description></description>
     </item>
     
