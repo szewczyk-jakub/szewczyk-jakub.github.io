@@ -1,8 +1,8 @@
 ---
 title: "Polonez Bis grant"
+date: 2023-10-01
 description: "In search of prediction error representations."
 tags: ["prediction error", "polonez", "polonez bis", "decoding", "fMRI", "predictions", "word reading", "priming", "figure/ground segregation", "sharpening", "dampening"]
-date: 2023-10-01
 cover:
     image: "polonez_bis_logo.png"
     alt: "Polonez Bis programme"

@@ -1,5 +1,6 @@
 ---
 title: "Do adjectives update predictions about a noun?"
+date: 2024-01-01
 author: " "
 description: "description?" 
 summary: "The brain responds to adjectives whose grammatical gender mismatches that of contextually probable nouns, a phenomenon viewed as key evidence of predictive sentence comprehension. In a series of EEG/ERP experiments, I explore whether this effect is truly predictive and whether it entails updating noun predictions." 

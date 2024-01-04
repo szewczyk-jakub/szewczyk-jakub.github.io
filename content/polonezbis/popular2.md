@@ -1,7 +1,7 @@
 ---
 title: "Popular description"
-#date: 2023-10-01
-#tags: ["keyword 1","keyword 2","keyword 3"]
+date: 2023-10-01
+tags: ["Polonez BIS", "prediction error"]
 author: " "
 description: "In search of prediction error - popular description" 
 summary: "Description of the project for normal people (non-scientists)." 

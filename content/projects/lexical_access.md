@@ -1,5 +1,6 @@
 ---
 title: "What is the neuro-cognitive mechanism underlying semantic access (and the N400)?"
+date: 2024-01-01
 author: " "
 description: "description?" 
 summary: "In this series of experiments I focus on understanding how the brain accesses the meaning of words." 

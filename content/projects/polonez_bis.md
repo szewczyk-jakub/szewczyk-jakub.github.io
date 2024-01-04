@@ -1,6 +1,6 @@
 ---
 title: "In search of prediction error representations"
-#date: 2023-10-01
+date: 2023-10-01
 #tags: ["keyword 1","keyword 2","keyword 3"]
 author: " "
 description: "In search of prediction error - popular description" 
