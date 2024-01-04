@@ -63,8 +63,8 @@ params:
           buttons:
             - name: Projects
               url: projects/
-            - name: Papers
-              url: papers/
+#            - name: Papers
+#              url: papers/
 #            - name: Courses
 #              url: courses/
 #            - name: Data
