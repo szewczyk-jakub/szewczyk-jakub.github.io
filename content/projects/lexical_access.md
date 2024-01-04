@@ -18,7 +18,7 @@ The following experiments address the question of what the mechanism underlying 
 ### Szewczyk & Federmeier (2022) _Journal of Memory and Language_
 [[paper]](https://doi.org/10.1016/j.jml.2021.104311) [[code & materials]](https://osf.io/urvax) [[data]](https://doi.org/10.7910/DVN/ICLMHD)
 
-<img style="max-height: 200px; align: center;" src="/hugo-website/projects/lexical_access/szewczyk_federmeier_2022.png">
+<img style="max-height: 200px; align: center;" src="/projects/lexical_access/szewczyk_federmeier_2022.png">
 
 
 In typical ERP studies, the N400 is measured by contrasting congruent words (with cloze probabilities; CP > 0) and incongruent words (CP = 0). The classical finding is that the N400 amplitude to congruent words varies as a function of their cloze probability. In this study, we employed a deep learning language model (GPT-2) to estimate the probability of unpredictable and incongruent words, to see whether the N400 will vary as a function of their (im)probability. Across five datasets, our findings indicate that:
@@ -36,7 +36,7 @@ We conclude that:
 ### Szewczyk & Schriefers (2018) _Language, Cognition and Neuroscience_
 [[paper]](https://doi.org/10.1080/23273798.2017.1401101)
 
-<img style="max-height: 200px; align: center;" src="/hugo-website/projects/lexical_access/szewczyk_schriefers_2018.png">
+<img style="max-height: 200px; align: center;" src="/projects/lexical_access/szewczyk_schriefers_2018.png">
 
 A prominent theory of the N400 assumes that the component's amplitude is a function of the degree of prior activation of a word's representations in semantic memory (Kutas & Federmeier, 2000). The amplitude is reduced for congruent words because the previous context already activated a large part of the word's meaning. In this study, we explicitly tested this hypothesis. We manipulated a target word's congruity in a sentence. Additionally, in half of the sentences, we artificially induced prediction of the target word by informing participants to expect it in the upcoming sentence. 
 

@@ -22,7 +22,7 @@ In this series of experiments, I test whether this is a truly predictive effect 
 ### Szewczyk & Schriefers (2013) _Journal of Memory and Language_
 [[paper]](https://doi.org/10.1016/j.jml.2012.12.002)
 
-<img style="max-height: 200px; align: center;" src="/hugo-website/projects/ADJ-N/szewczyk_schriefers_2013.png">
+<img style="max-height: 200px; align: center;" src="/projects/ADJ-N/szewczyk_schriefers_2013.png">
 
 In this paper, we tested **whether many nouns can be predicted in parallel**. Grammatical gender in Polish also encodes the semantic animacy of the noun. We used stories that most probably could be continued with an animate noun, without making any specific noun predictable (e.g. "For the next party, he invited..."). We tested whether the prenominal prediction effect still occurs in sentences where no specific noun is predictable (they are low-constraint), but the gender of the adjective violates the prediction of animacy. 
 
@@ -35,7 +35,7 @@ We found that even when the sentence makes many nouns predictable, and all of th
 ### Szewczyk & Wodniecka (2020) _Journal of Experimental Psychology: Learning, Memory & Cognition_
 [[paper]](https://doi.org/10.1037/xlm0000835) [[preprint]](https://osf.io/preprints/psyarxiv/ydp2m) [[data & code]](https://osf.io/c6hxt/)
 
-<img style="max-height: 200px; align: center;" src="/hugo-website/projects/ADJ-N/szewczyk_wodniecka_2020.png">
+<img style="max-height: 200px; align: center;" src="/projects/ADJ-N/szewczyk_wodniecka_2020.png">
 
 We tested whether the prenominal prediction effect at adjectives reflects **updating predictions about the noun**. In all the (Polish) items, sentences made at least a few nouns likely candidates. We manipulated how informative the adjective was about the upcoming noun. For more informative adjectives, the gender narrowed down the likely noun candidates significantly, often to just one, while less informative adjectives did not restrict the pool of nouns as much. We also included a condition where adjective's gender mismatched all likely nouns, as in the first study. 
 
@@ -51,7 +51,7 @@ This paradox was resolved in the subsequent study.
 ### Szewczyk, Mech & Federmeier (2021) _Journal of Experimental Psychology: Learning, Memory & Cognition_
 [[paper]](https://doi.org/10.1037/xlm0001091) [[materials & code]](https://osf.io/urvax) [[data]](https://doi.org/10.7910/DVN/ICLMHD)
 
-<img style="max-height: 200px; align: center;" src="/hugo-website/projects/ADJ-N/szewczyk_mech_federmeier_2021.png">
+<img style="max-height: 200px; align: center;" src="/projects/ADJ-N/szewczyk_mech_federmeier_2021.png">
 
 We investigated whether adjectives preceding a noun can **semantically** update predictions about that noun. We used sentences (in English) with two likely nouns, preceded by adjectives that biased towards either of the two nouns (e.g., "He threatened the other driver with a _civil/loaded_ _lawsuit/gun_). In this way, the adjective could either increase the probability of one noun at the expense of the other. 
 
